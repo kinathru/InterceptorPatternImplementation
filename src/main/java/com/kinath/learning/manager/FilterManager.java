@@ -1,4 +1,7 @@
-package com.kinath.learning;
+package com.kinath.learning.manager;
+
+import com.kinath.learning.Target;
+import com.kinath.learning.filters.Filter;
 
 /**
  * Created by Kinath on 3/31/2017.

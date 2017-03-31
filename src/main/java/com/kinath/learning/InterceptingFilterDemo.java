@@ -1,5 +1,10 @@
 package com.kinath.learning;
 
+import com.kinath.learning.filters.AuthenticationFilter;
+import com.kinath.learning.filters.DebugFilter;
+import com.kinath.learning.manager.Client;
+import com.kinath.learning.manager.FilterManager;
+
 /**
  * Created by Kinath on 3/31/2017.
  */

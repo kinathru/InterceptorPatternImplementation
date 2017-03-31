@@ -1,4 +1,7 @@
-package com.kinath.learning;
+package com.kinath.learning.manager;
+
+import com.kinath.learning.Target;
+import com.kinath.learning.filters.Filter;
 
 import java.util.ArrayList;
 import java.util.List;
